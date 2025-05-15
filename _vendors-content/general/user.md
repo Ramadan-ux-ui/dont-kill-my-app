@@ -1,4 +1,4 @@
----
+ZTE Blade V30---
 manufacturer:
     - general
 ---
